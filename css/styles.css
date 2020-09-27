@@ -3,15 +3,3 @@ body {
     padding: 0;
 }  
 
-main#content .title {
-    font-size: 24px;
-    padding: 20px 0;
-  }
-
-.description {
-    text-emphasis-color: black;
-}
-
-.Statement1 {
-    text-decoration-color: blue;
-}
